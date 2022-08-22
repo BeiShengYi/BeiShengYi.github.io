@@ -3,11 +3,11 @@
   <title>小北💖Blog</title>
   <icon>https://www.gravatar.com/avatar/627835eeedd409d6b031af70dbdec6c0</icon>
   <subtitle>生活明朗 万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://beishengyi.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://beishengyi.github.io/"/>
   <updated>2022-08-22T07:00:16.993Z</updated>
-  <id>http://example.com/</id>
+  <id>https://beishengyi.github.io/</id>
   
   <author>
     <name>小北</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://beishengyi.github.io/posts/4a17b156.html"/>
+    <id>https://beishengyi.github.io/posts/4a17b156.html</id>
     <published>2022-08-22T06:36:28.735Z</published>
     <updated>2022-08-22T07:00:16.993Z</updated>
     
